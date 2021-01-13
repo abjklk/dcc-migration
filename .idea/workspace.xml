@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6409692a-a412-4184-9a09-e2c500e5b327" name="Default Changelist" comment="" />
+    <list default="true" id="6409692a-a412-4184-9a09-e2c500e5b327" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs2/ManualMigrationExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs2/MigrationExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cs2/MigrationExample2_PowerUsage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LoadBalancerByHorizontalVmScalingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ManualMigrationExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MigrationExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Migration1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MigrationExample2_PowerUsage.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +26,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bLCBrAhUyLYx1ScwH7aBrxNpfa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Java/javafx-sdk-11.0.2/lib/javafx.web.jar!/" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -31,6 +47,9 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Laptop\Downloads\cs2\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -45,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MigrationExample1">
+  <component name="RunManager" selected="Application.LoadBalancerByHorizontalVmScalingExample">
     <configuration name="LoadBalancerByHorizontalVmScalingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LoadBalancerByHorizontalVmScalingExample" />
       <module name="cs2" />
@@ -60,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MigrationExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MigrationExample1" />
+    <configuration name="Migration1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Migration1" />
       <module name="cs2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MigrationExample1" />
         <item itemvalue="Application.LoadBalancerByHorizontalVmScalingExample" />
+        <item itemvalue="Application.Migration1" />
         <item itemvalue="Application.ManualMigrationExample1" />
       </list>
     </recent_temporary>
@@ -87,5 +106,18 @@
       <updated>1588401854014</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
